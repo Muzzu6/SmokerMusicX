@@ -3,7 +3,7 @@
 ### Best Smart Voice Chat Music Robot For Telegram Groups ...
 
 
-<p align="center"><a href="https://t.me/itz_me_monuuz"><img src="https://te.legra.ph/file/cb120c72f464ff25025a3.jpg"></a></p>
+<p align="center"><a href="https://t.me/Muzzu5"><img src="https://te.legra.ph/file/011dc65bd3b203d687f21.jpg"></a></p>
 
 
 # ʜᴇʀoᴋᴜ ᴅᴇᴘʟᴏʏ
@@ -11,7 +11,7 @@
 
 ## ᴅᴇᴘʟᴏʏ ʀᴀɪʟᴡᴀʏ ꜱᴇʀᴠᴇʀ </h4>
 
-[![Deploy+To+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/itzmemonuuz123/SmokerMusicX&envs=SESSION_NAME,BOT_TOKEN,BOT_NAME,API_ID,API_HASH,SUDO_USERS,DURATION_LIMIT)
+[![Deploy+To+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/muxzu6/SmokerMusicX&envs=SESSION_NAME,BOT_TOKEN,BOT_NAME,API_ID,API_HASH,SUDO_USERS,DURATION_LIMIT)
 
 
 ꜱᴛʀɪɴɢ ɴᴀᴍᴇ:
